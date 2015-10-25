@@ -1,6 +1,6 @@
 {
   "name": "toy-test",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A small module to build out a test framework.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "problem"
   ],
   "author": "Justin Zimmerman",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrzimmerman/toy-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrzimmerman/toy-test/issues"
+  },
+  "homepage": "https://github.com/jrzimmerman/toy-test#readme"
 }
